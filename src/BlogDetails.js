@@ -12,7 +12,7 @@ const handleClick=()=>{
         method: 'DELETE'
     })
     .then(
-        navigate("/")
+        navigate("/delete")
     )
 }
     return ( 
